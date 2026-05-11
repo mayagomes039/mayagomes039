@@ -6,9 +6,14 @@ At the moment, I am developing my master’s thesis in the field of sentiment an
 In addition to my thesis, I am involved in the AMALIA (Creation of the Large-Scale Language Model of the Portuguese Language of Portugal) project at the University of Minho, where I am more recently part of the front-end development team. 
 
 ##  Personal Information
-🏠 Braga, Portugal  
-🎓 BSc Computer Science @ Universidade do Minho, Braga  
-🎓 MSc Computer Science @ Universidade do Minho, Braga & Technische Universität Wien, Wien
+- 🌍 Portuguese and French
+- 🏠 Braga, Portugal  
+
+- 🎓 BSc Computer Science @ Universidade do Minho, Braga  
+- 🎓 MSc Computer Science @ Universidade do Minho, Braga & Technische Universität Wien, Wien
+
+- 🔗 LinkedIn: [Maya Gomes](https://www.linkedin.com/in/maya-gomes-104bb8337/)
+- 💻 Portfolio: [Maya Gomes](https://mayagomesportfolio.blogspot.com)
 
 ---
 
